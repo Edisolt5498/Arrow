@@ -6,7 +6,7 @@ public class Main {
         //Scanner size = new Scanner(System.in);
         //System.out.print("Input a number of lines of arrow: ");
         //int n = size.nextInt();  //the size of arrow just deleted Scanner and now it has just only 12 lines
-        int n = 15;
+        int n = 12;
 
 
         Scanner InputSpaceKey = new Scanner(System.in);
